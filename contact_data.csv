@@ -1,0 +1,4 @@
+"Name","Email","Subject","Message"
+"Alice","mailto:alice@example.com","Support","Need help with login"
+"Bob","mailto:bob@example.com","Feedback","Great site!"
+"Eve","wrong-email","Inquiry","Testing invalid email"
