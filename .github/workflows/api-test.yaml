@@ -20,3 +20,6 @@ jobs:
 
       - name: Run API tests
         run: newman run "Contact API testing.postman_collection.json" -d contact_data.csv --reporters cli,html --reporter-html-export report.html
+
+
+
